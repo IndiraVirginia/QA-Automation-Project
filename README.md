@@ -3,7 +3,9 @@ Proyecto de Automatización para el curso de Xa Academy QA
 # QA Automation Project
 
 Este repositorio contiene el trabajo final del curso de **QA Automation**. El objetivo del proyecto es automatizar pruebas para la página de demo de [SauceDemo](https://www.saucedemo.com/), utilizando Cypress para realizar pruebas de login, carrito de compras y proceso de checkout.
-
+## Casos de prueba
+Acá adjunto el link para poder ver los test cases realizados 
+https://docs.google.com/spreadsheets/d/12KbwNso6S_YDGfVDc8FJuhSNxbSqZ75Cs3wcinxZn6Q/edit?gid=6374866#gid=6374866
 ## Descripción
 
 El proyecto incluye las siguientes pruebas automatizadas con Cypress:

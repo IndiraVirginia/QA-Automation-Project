@@ -48,7 +48,7 @@ npx cypress open
 Esto abrirá la interfaz de Cypress y podrás ejecutar las pruebas desde la interfaz gráfica.
 Estructura del Proyecto
 
-    cypress/integration: Contiene los archivos de prueba automatizada (.cy.js).
+    cypress/e2e: Contiene los archivos de prueba automatizada (.cy.js).
     cypress/fixtures: Contiene los datos de prueba para el login y otros casos.
     cypress/support: Contiene configuraciones y comandos personalizados de Cypress.
     package.json: Archivo de configuración de dependencias y scripts.
